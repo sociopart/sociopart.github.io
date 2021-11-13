@@ -1,0 +1,16 @@
+body {
+  background-image: url(../img/background.png);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 85%;
+  height: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 20%;
+}
