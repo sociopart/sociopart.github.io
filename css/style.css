@@ -5,9 +5,11 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-img {
-  text-align: center;
-  display: block;
-  margin: 5% auto;
-  position: relative;
+.middle{
+    position:absolute;
+    top:0;
+    bottom:0;
+    right: 0;
+    left: 0;
+    margin: auto; 
 }
